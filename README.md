@@ -1,3 +1,5 @@
+<img title="" src=".\ress4how-to\title.PNG" alt="" width="950">
+
 # Use ThéoBOT Verheagen
 
 * ThéoBOT a été réfléchi pour offrir un maximum de possibilitées en changeant plusieurs paramètres pour le mieux convenir à vos situations lors du live. Il y a 3 status/role sur le serveur qui permettent certains privilèges : 
