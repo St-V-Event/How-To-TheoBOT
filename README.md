@@ -1,11 +1,11 @@
 # Use ThéoBOT Verheagen
 
-* ThéoBOT a été réfléchi pour offrir un maximum de possibilité en changeant plusieurs paramètres pour le mieux convenir à vos situations lors du live. Il y a 3 status/role sur le serveur qui permettent certains privilèges : 
+* ThéoBOT a été réfléchi pour offrir un maximum de possibilitées en changeant plusieurs paramètres pour le mieux convenir à vos situations lors du live. Il y a 3 status/role sur le serveur qui permettent certains privilèges : 
 	* <kbd>admin CERCLE</kbd> : Cette personne aura le contrôle sur toutes les commandes cité ci-dessous. Le premier admin du cercle doit être ajouté manuellement par la "Team Orga", ensuite le rôle peut-être attribué à d'autres via une commande. ATTENTION ! Ne donnez pas ce privilège à n'importe qui ! Il aura tout pouvoir sur votre section Discord !
 	* <kbd>streameur CERCLE</kbd> : Cette personne a le droit à 2 commandes supplémentaires par rapport aux autres (admin l'a aussi) et peu également rejoindre certaines conversations privées pour pouvoir s'isoler lors de la diffusion de votre programme (et évitez les intrusions de troll)
 	* <kbd>CERCLE</kbd> : Le rôle peu être (et doit être fait pour tout le monde ! Pas ajoutable avec une commande.) auto-attribuer grâce à un autre BOT présent sur le serveur. Dans la conversation "🔺-your-circle-🔵" vous pourrez sélectionner celui que vous représentez !
 
-* À aucun moment il ne vous est de mentionner votre cercle. C'est normal car le robot détecte automatiquement dans quelle "section Discord" (un rassemblement de conversations écrites et vocales) vous avez les droits. À savoir celle portant le nom de votre cercle bien-sûr. TOUT ce que vous ferez via ces commandes ne s'appliquera que dans votre section, peu importe où vous l'écrivez !
+* À aucun moment il ne vous est dit de mentionner votre cercle. C'est normal car le robot détecte automatiquement dans quelle "section Discord" (un rassemblement de conversations écrites et vocales) vous avez les droits. À savoir celle portant le nom de votre cercle bien-sûr. TOUT ce que vous ferez via ces commandes ne s'appliquera que dans votre section, peu importe où vous l'écrivez (je vous recommande cependant de le faire dans le channel 🤖-bot-command pour minimiser les chances de conflits de permissions) !
 
 * Dû à ces status, plusieurs "catégories/sections" de conversations privées sont possible. Il faut comprendre que sur Discord on peu créer autant de conversation qu'on veut sur le même serveur et en accorder le droit seulement à certaines personnes/certains rôles ! Pour vous faciliter la tâche à privatiser ces conversations plusieurs commandes sont possible, mais il faut bien choisir quel type de channel vous voulez créer ! Si vous vous ratez, pas très grâve.. supprimez et recommencez ! 
 
@@ -124,8 +124,8 @@
 * Cette commande permet d'attribuer un rôle aux personnes identifiées.
 	
 * ROLE
-	* admin : permet d'éxécuter toutes les commandes cité dans ce document, ne confiez pas ce rôle à n'importe qui !
-	* stream : permet l'accès aux conversations réservé aux streameurs.
+	* <kbd>admin</kbd> : permet d'éxécuter toutes les commandes cité dans ce document, ne confiez pas ce rôle à n'importe qui !
+	* <kbd>stream</kbd> : permet l'accès aux conversations réservé aux streameurs.
 
 * Members
 	* Il faut "identifier" (comme quand on identifie une personne sur les réseaux), les personnes à qui vous souhaitez attribuer le rôle. Grâce au "@" suivit du pseudo de la personne.
@@ -138,8 +138,8 @@
 * Cette commande permet d'enlever un rôle aux personnes identifiées.
 
 * ROLE 
-	* admin : permet d'éxécuter toutes les commandes cité dans ce document.
-	* stream : permet l'accès aux conversations réservé aux streameurs.
+	* <kbd>admin</kbd> : permet d'éxécuter toutes les commandes cité dans ce document.
+	* <kbd>stream</kbd> : permet l'accès aux conversations réservé aux streameurs.
 
 * Members
 	* Il faut "identifier" (comme quand on identifie une personne sur les réseaux), les personnes à qui vous souhaitez attribuer le rôle. Grâce au "@" suivit du pseudo de la personne.
